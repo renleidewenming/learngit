@@ -6,4 +6,4 @@ I want to see the changes.
 Creating a new branch is quick AND simple.
 & simple
 dev changes
-Another branch named dev 2019/6/20.
+Another branch named dev crteated on 2019/6/20.
