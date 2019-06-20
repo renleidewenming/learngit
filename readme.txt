@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 & simple
 dev changes
 Another branch named dev built on 2019/6/20.
+add merge
